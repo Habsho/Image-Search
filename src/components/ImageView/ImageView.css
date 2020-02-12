@@ -1,0 +1,26 @@
+.imageView__container {
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+
+.imageView__img {
+  height: 400px;
+  width: auto;
+}
+
+.imageView__text {
+  margin-top: 1rem;
+}
+
+.imageView__text a {
+  font-weight: bold;
+  color: white;
+}
+
+.imageView__text button {
+  border: 0;
+  background: transparent;
+  border: solid 2px #1f5b97;
+  margin-top: 10px;
+}
