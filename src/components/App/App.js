@@ -3,8 +3,6 @@ import React from "react";
 import ImageList from "../ImageList/ImageList";
 import ImageSearch from "../ImageSearch/ImageSearch";
 
-const API_TOKEN = process.env.API_TOKEN;
-
 class App extends React.Component {
   state = {
     images: [],
